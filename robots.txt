@@ -90,4 +90,4 @@ User-agent: DotBot
 Disallow: /
 
 # Sitemap
-Sitemap: https://fungtion.github.io/sitemap.xml
+Sitemap: https://fungtion.github.io/webio/sitemap.xml

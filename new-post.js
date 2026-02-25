@@ -68,7 +68,7 @@ fs.writeFileSync(postsJsonPath, JSON.stringify(posts, null, 4) + '\n', 'utf-8');
 console.log(`✅ Updated posts.json (${posts.length} posts)`);
 
 // 3. Update feed.xml
-const baseUrl = 'https://fungtion.github.io';
+const baseUrl = 'https://fungtion.github.io/webio';
 const feedItems = posts.map(p => `
     <item>
       <title>${escapeXml(p.title)}</title>
