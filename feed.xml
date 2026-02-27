@@ -5,7 +5,16 @@
     <link>https://fungtion.github.io/webio</link>
     <description>微观算力经济学</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Feb 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 09:24:38 GMT</lastBuildDate>
     <atom:link href="https://fungtion.github.io/webio/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>视觉token压缩（一）</title>
+      <link>https://fungtion.github.io/webio/?post=视觉token压缩（一）</link>
+      <guid isPermaLink="true">https://fungtion.github.io/webio/?post=视觉token压缩（一）</guid>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 GMT</pubDate>
+      <description>介绍4篇具有代表性的视觉token压缩论文，探讨大模型如何应对海量视觉token的计算开销挑战。</description>
+      <dc:creator>微观算力经济学</dc:creator>
+    </item>
   </channel>
 </rss>
